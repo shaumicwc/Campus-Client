@@ -1,0 +1,173 @@
+[
+    {
+        "name": "Stanford University",
+        "image": "https://scpd.stanford.edu/sites/default/files/2020-08/stanford-oval.jpg",
+        "admission_dates": "Fall: September 1 - December 1, Spring: Not specified",
+        "events": [
+          "Orientation Week",
+          "Homecoming",
+          "Career Fair",
+          "Graduation Ceremony"
+        ],
+        "events_facilities": "Stanford has state-of-the-art venues for hosting events, including the Stanford Stadium and Arrillaga Center for Sports and Recreation.",
+        "sports": [
+          "Football",
+          "Basketball",
+          "Swimming",
+          "Soccer",
+          "Volleyball"
+        ],
+        "sports_facilities": "The university offers top-notch sports facilities, such as the Avery Aquatic Center, Maples Pavilion, and the Stanford Golf Course.",
+        "research_link" : "https://www.stanford.edu/research/",
+        "research_history": "Stanford is renowned for its contributions to various fields of research, including computer science, medicine, engineering, and more.",
+        "admission_process": "Prospective students must submit their applications online and provide required documents, such as transcripts, test scores, and letters of recommendation.",
+        "event_details": "Orientation Week takes place at the beginning of each academic year to welcome new students and introduce them to campus life.",
+        "research_works": "Development of the Stanford Hypertext Transfer Protocol (HTTP)",
+        "number_of_research": 15000,
+        "sports_categories": "Stanford University offers a variety of NCAA Division I sports.",
+        "ratings": 4.8,
+        "graduates_image": "https://commencement.stanford.edu/sites/g/files/sbiybj17666/files/styles/breakpoint_2xl_2x/public/media/image/20230618_2023_commencement_n6a6246_0.jpeg?itok=tOOudCSY"
+      },
+      {
+        "name": "Johns Hopkins University",
+        "image": "https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/gilman_quad0508.jpg",
+        "admission_dates": "Fall: September 1 - January 4, Spring: Not specified",
+        "events": [
+          "Hopkins on the Hill",
+          "Spring Fair",
+          "Family Weekend",
+          "Research Symposium"
+        ],
+        "events_facilities": "Johns Hopkins offers various event facilities, including the Ralph S. O'Connor Recreation Center and the Shriver Hall Auditorium.",
+        "sports": [
+          "Baseball",
+          "Basketball",
+          "Lacrosse",
+          "Soccer",
+          "Track and Field"
+        ],
+        "sports_facilities": "The university provides excellent sports facilities, such as the Cordish Lacrosse Center, Goldfarb Gymnasium, and Homewood Field.",
+        "research_link" : "https://coronavirus.jhu.edu/data/new-cases",
+        "research_history": "Johns Hopkins has a rich history of groundbreaking research, particularly in the fields of medicine, public health, and engineering.",
+        "admission_process": "Prospective students can apply through the Common Application or the Coalition Application and should submit required documents.",
+        "event_details": "Hopkins on the Hill is an annual event where students showcase their research projects to policymakers in Washington, D.C.",
+        "research_works": "Development of the Polymerase Chain Reaction (PCR)",
+        "number_of_research": 20000,
+        "sports_categories": "Johns Hopkins University participates in various Division III sports.",
+        "ratings": 4.7,
+        "graduates_image": "https://api.hub.jhu.edu/factory/sites/default/files/styles/landscape/public/2023-05/2023%20commencement%2035.JPG"
+    },
+    {
+        "name": "Harvard University",
+        "image": "https://college.us.com/wp-content/uploads/2023/01/what-is-Harvard-college-vs-Harvard-university.png",
+        "admission_dates": "Fall: October 1 - January 1, Spring: Not specified",
+        "events": [
+          "Harvard-Yale Game",
+          "Harvard Commencement",
+          "Arts First",
+          "Science Research Symposium"
+        ],
+        "events_facilities": "Harvard hosts events in prestigious locations like Harvard Stadium and Sanders Theatre.",
+        "sports": [
+          "Rowing",
+          "Ice Hockey",
+          "Fencing",
+          "Squash",
+          "Tennis"
+        ],
+        "sports_facilities": "Harvard's sports facilities include the Malkin Athletic Center, Bright-Landry Hockey Center, and Harvard Boathouse.",
+        "research_link" : " https://hbswk.hbs.edu/item/could-global-demand-for-oil-peak-in-2026",
+        "research_history": "Harvard is a leading institution with a long history of impactful research across various disciplines, including law, business, and social sciences.",
+        "admission_process": "Prospective students can apply through the Common Application, the Coalition Application, or Universal College Application.",
+        "event_details": "The Harvard-Yale Game is an annual football game between the two rival Ivy League universities.",
+        "research_works": "Harvard researchers have made significant contributions to various fields, winning Nobel Prizes and other prestigious awards.",
+        "number_of_research": 18000,
+        "sports_categories": "Harvard University has a strong NCAA Division I athletic program.",
+        "ratings": 4.9,
+        "graduates_image": "https://extension.harvard.edu/wp-content/uploads/sites/8/2020/10/alb-commencement.jpg"
+      },
+      {
+        "name": "University of Georgia",
+        "image": "https://news.uga.edu/wp-content/uploads/2019/08/east-campus.jpg",
+        "admission_dates": "Fall: October 15 - January 1, Spring: August 1 - November 15",
+        "events": [
+          "G-Day Spring Game",
+          "Homecoming",
+          "International Street Festival",
+          "Research Symposium"
+        ],
+        "events_facilities": "The University of Georgia organizes events in venues like Sanford Stadium and Tate Student Center.",
+        "sports": [
+          "Football",
+          "Basketball",
+          "Baseball",
+          "Gymnastics",
+          "Softball"
+        ],
+        "sports_facilities": "UGA's sports facilities include the William Porter Payne and Porter Otis Payne Indoor Athletic Facility, Stegeman Coliseum, and Foley Field.",
+        "research_history": "The University of Georgia has a strong research emphasis, particularly in agricultural sciences, ecology, and veterinary medicine.",
+        "admission_process": "Prospective students should submit their applications through the University of Georgia's admissions website.",
+        "event_details": "G-Day is the annual spring football game where fans get a glimpse of the team's performance before the season.",
+        "research_works": "UGA researchers have made significant contributions to agriculture and environmental sciences.",
+        "number_of_research": 14000,
+        "sports_categories": "The University of Georgia competes in various NCAA Division I sports.",
+        "ratings": 4.5,
+        "graduates_image": "https://www.ajc.com/resizer/KKWcveKwGbrqe9lvSg3s29Fk2bs=/814x458/cloudfront-us-east-1.images.arcpublishing.com/ajc/5BCLTWKL45QCEMWEONDIZ4IVSY.jpg"
+      },
+      {
+        "name": "University of Florida",
+        "image": "https://www.phys.ufl.edu/wp/wp-content/uploads/2017/11/photo4-1024x787-1.jpg",
+        "admission_dates": "Fall: August 1 - November 1, Spring: Not specified",
+        "events": [
+          "Gator Growl",
+          "Homecoming",
+          "Family Weekend",
+          "Research Showcase"
+        ],
+        "events_facilities": "The University of Florida organizes events in venues like Ben Hill Griffin Stadium and the Stephen C. O'Connell Center.",
+        "sports": [
+          "Football",
+          "Basketball",
+          "Swimming",
+          "Tennis",
+          "Track and Field"
+        ],
+        "sports_facilities": "UF's sports facilities include the James G. Pressly Stadium, Katie Seashole Pressly Stadium, and the Alfred A. McKethan Stadium.",
+        "research_history": "The University of Florida is known for its research in areas such as agricultural sciences, engineering, and space exploration.",
+        "admission_process": "Prospective students should apply through the University of Florida's admissions portal and submit the required documents.",
+        "event_details": "Gator Growl is the largest student-run pep rally in the world, held during Homecoming week.",
+        "research_works": "The University of Florida has contributed significantly to advancements in space technology and health sciences.",
+        "number_of_research": 17000,
+        "sports_categories": "The University of Florida is part of the NCAA Division I athletic program.",
+        "ratings": 4.6,
+        "graduates_image": "https://commencement.ufl.edu/media/commencementufledu/Front-Page-Dec-Grad-Pic.jpg"
+      },
+      {
+        "name": "University of Miami",
+        "image": "https://arquitectonica.com/architecture/wp-content/uploads/sites/2/2018/07/TIMG-university-of-miami-student-lakeside-village-1.jpg",
+        "admission_dates": "Fall: September 1 - January 15, Spring: Not specified",
+        "events": [
+          "CaneFest",
+          "Homecoming",
+          "International Week",
+          "Research Symposium"
+        ],
+        "events_facilities": "The University of Miami hosts events in venues like Watsco Center and Donna E. Shalala Student Center.",
+        "sports": [
+          "Football",
+          "Basketball",
+          "Soccer",
+          "Volleyball",
+          "Swimming"
+        ],
+        "sports_facilities": "UM's sports facilities include Cobb Stadium, Mark Light Field at Alex Rodriguez Park, and the Neil Schiff Tennis Center.",
+        "research_history": "The University of Miami is involved in extensive research, particularly in the fields of marine sciences, medicine, and music.",
+        "admission_process": "Prospective students can apply through the Common Application, Coalition Application, or the University of Miami's application.",
+        "event_details": "CaneFest is an annual music festival and carnival held on the university's campus.",
+        "research_works": "The University of Miami has a strong focus on marine and environmental research, as well as medical advancements.",
+        "number_of_research": 12000,
+        "sports_categories": "The University of Miami competes in various NCAA Division I sports.",
+        "ratings": 4.7,
+        "graduates_image": "https://commencement.miami.edu/_assets/images/05122022_jabreu_0244.jpg"
+      }                                    
+]
