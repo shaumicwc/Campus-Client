@@ -12,7 +12,7 @@ const MyColleges = () => {
     const { data: candidate = [] } = useQuery({
         queryKey: ['candidate', user],
         queryFn: async () => {
-            const response = await axios.get(`${import.meta.env.VITE_BASE_URL}/candidates?email=${user?.email}`);
+            const response = await axios.get(`${import.meta.env.VITE_BASE_URL}/candidates`);
             return response.data;
         },
     });
