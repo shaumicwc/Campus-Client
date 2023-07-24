@@ -20,10 +20,7 @@ const ProfilePage = () => {
 
     const handleProfileUpdate = () => {
         setShowModal(true)
-        // axios.put(`${import.meta.env.VITE_BASE_URL}/update-profile`, profile)
-        //     .then(response => {
-        //         console.log(response.data);
-        //     })
+        
     }
 
     useEffect(() => {
